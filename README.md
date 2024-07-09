@@ -10,14 +10,19 @@ In other words this proves that you can cheat in an election by changing the rep
 
 # EXAMPLE USAGE: 
 
-``
+```
 Enter the number of votes for Trump: 90345
+
 Enter the number of votes for Biden: 87344
+
 Trump: 49.62%
+
 Biden: 50.38%
+
 New Trump Votes: 88178
+
 New Biden Votes: 89511
-``
+```
 
 
 # DISCLAIMER: 
